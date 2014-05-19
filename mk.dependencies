@@ -16,7 +16,7 @@
     "target_path": "vendor/sony/fuji-common"
   },
   {
-    "repository": "android_kernel_sony_msm8x60",
-    "target_path": "kernel/sony/msm8x60"
+    "repository": "android_kernel_sony_fuji-common",
+    "target_path": "kernel/sony/fuji-common"
   }
 ]
